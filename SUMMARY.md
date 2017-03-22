@@ -1,3 +1,3 @@
 # Summary
 
-* [Variables can't be used in the summary {{ book.name }}](README.md)
+* [{{ book.variables }} can't be used in the glossary](README.md)
