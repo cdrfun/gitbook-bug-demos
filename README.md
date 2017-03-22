@@ -1,6 +1,6 @@
 # Introduction
 
-While {{ book.variables }} work in normal pages, they don't work in SUMMARY.md or GLOSSARY.md ☹
+This books showcases some bugs found in GitBooks.
 
 [GitHub Repo](https://github.com/cdrfun/gitbook-bug-demos)
 
